@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahul-deshmukhpatil
-- 👀 I’m interested in C++, python, Quant Trading, Options Pricing
+- 👀 I’m interested in C++, python, Quant Trading, Index, ETF and Options Pricing
 - 🌱 I’m currently learning Backtesting Trading Strategies
 - 💞️ I’m looking to collaborate on Quantitative Libraries 
 - 📫 How to reach me email : rahul.deshmukhpatil@gmail.com or Linkedin 
